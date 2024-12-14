@@ -127,9 +127,9 @@ end arch_tb_reg_dec;
 ## 5. Résultats
 
 ### Chronogramme:
+![pic](https://github.com/user-attachments/assets/169de8fb-1c88-4cc5-a403-9190de9388c3)
 
 
-![Capture d'écran 2024-12-14 122516](https://github.com/user-attachments/assets/7e87e31c-7d40-4e70-bc6a-40c102361b71)
 
 Le registre se remplit et décale les bits d'entrée à chaque cycle d'horloge.  
 Quand `rst = '1'`, le registre est réinitialisé.
