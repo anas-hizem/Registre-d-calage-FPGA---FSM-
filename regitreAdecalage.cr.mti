@@ -1,0 +1,18 @@
+C:/altera/13.0/work/registre/bas_d.vhd {1 {vcom -work work -2002 -explicit {C:\altera\13.0\work\registre\bas_d.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity bas_d
+-- Compiling architecture arch_bas_d of bas_d
+
+} {} {}} C:/altera/13.0/work/registre/tb_reg_dec.vhd {1 {vcom -work work -2002 -explicit {C:\altera\13.0\work\registre\tb_reg_dec.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tb_reg_dec
+-- Compiling architecture arch_tb_reg_dec of tb_reg_dec
+
+} {} {}}

@@ -1,0 +1,112 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0
+Ebas_d
+Z0 w1734173412
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\altera\13.0\work\registre
+Z4 8C:\altera\13.0\work\registre\bas_d.vhd
+Z5 FC:\altera\13.0\work\registre\bas_d.vhd
+l0
+L4
+V4Wo6QXBcm65]Q1d8>G_D?2
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1734173459.536000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\altera\13.0\work\registre\bas_d.vhd|
+Z9 !s107 C:\altera\13.0\work\registre\bas_d.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 FAghhhCJDLLP_?lM@?cB81
+!i10b 1
+Aarch_bas_d
+R1
+R2
+DEx4 work 5 bas_d 0 22 4Wo6QXBcm65]Q1d8>G_D?2
+l14
+L13
+VSGUYMVCOP?Wg`e9]R0YK62
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 `PUz6C>ffkWBYQQZ<2cMW3
+!i10b 1
+Ereg_dec
+Z12 w1734173433
+R1
+R2
+R3
+Z13 8C:\altera\13.0\work\registre\reg_dec.vhd
+Z14 FC:\altera\13.0\work\registre\reg_dec.vhd
+l0
+L12
+VOm6?Zc1Gbz<[FWLICULn<1
+!s100 OOdFBGcoMYd_8CkLkS@<C3
+R6
+32
+!i10b 1
+Z15 !s108 1734173538.720000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\altera\13.0\work\registre\reg_dec.vhd|
+Z17 !s107 C:\altera\13.0\work\registre\reg_dec.vhd|
+R10
+R11
+Aarch_reg_dec
+R1
+R2
+Z18 DEx4 work 7 reg_dec 0 22 Om6?Zc1Gbz<[FWLICULn<1
+l33
+L24
+Z19 VR;nh]f32M?C`FoIlE4FM42
+Z20 !s100 WiLjh8j3?kCm>J7Q2`49d1
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11
+Etb_reg_dec
+Z21 w1734173451
+Z22 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R1
+R2
+R3
+Z23 8C:\altera\13.0\work\registre\tb_reg_dec.vhd
+Z24 FC:\altera\13.0\work\registre\tb_reg_dec.vhd
+l0
+L8
+V=<ij^?_?3^7>gdNZE[J2M1
+R6
+32
+Z25 !s108 1734173459.627000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\altera\13.0\work\registre\tb_reg_dec.vhd|
+Z27 !s107 C:\altera\13.0\work\registre\tb_reg_dec.vhd|
+R10
+R11
+!s100 UkhP?89[W7cl<nMaVn:WD0
+!i10b 1
+Aarch_tb_reg_dec
+R22
+R1
+R2
+DEx4 work 10 tb_reg_dec 0 22 =<ij^?_?3^7>gdNZE[J2M1
+l30
+L11
+V`X6k0]DYPoQ2a_Y2W<5ER2
+R6
+32
+R25
+R26
+R27
+R10
+R11
+!s100 dKiBMP>J:b^d11TfXeg_S2
+!i10b 1
